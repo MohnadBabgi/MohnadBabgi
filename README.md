@@ -1,15 +1,17 @@
 # 👋 Hi, I'm Mohanad
 
-🎓 **IT Student @ King Abdulaziz University (FCIT)**  
+🎓 **IT Student at King Abdulaziz University (FCIT)**  
 💻 **Full-Stack Developer | Cloud & DevOps Enthusiast |**  
-🚀 Passionate about building large-scale, intelligent, and user-centric software solutions.
+🚀 I enjoy designing and building practical, user-friendly software that solves real problems.
+
 ---
 
 ## 🧠 About Me
 - 💡 I simply enjoy coding — building things for fun, experimenting, and learning every day.
 - ☁️ Experienced with **AWS (EC2, S3, IAM, RDS, CloudWatch)**  
 - 🧪 I enjoy problem-solving, debugging.
-- 📘 Always learning, always improving — from backend architecture to UI/UX polish.  
+- 📘 Always learning, always improving — from backend architecture to UI/UX polish.
+  
 ---
 
 ## 🛠️ Tech Stack & Tools
