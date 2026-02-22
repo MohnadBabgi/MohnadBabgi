@@ -12,7 +12,7 @@
 
 **Databases:** PostgreSQL, MySQL, Oracle DB, SQLite
 
-**Cloud & DevOps:** AWS (EC2, S3, IAM, RDS, CloudWatch), Docker and Docker Compose, VirtualBox with Vagrant multi-VM environments, GitHub Actions, GitLab CI/CD, Jenkins Ansible and kubernetes
+**Cloud & DevOps:** AWS (EC2, S3, IAM, RDS, CloudWatch), Docker and Docker Compose, VirtualBox with Vagrant multi-VM environments, GitHub Actions, Ansible and kubernetes
 
 ---
 
