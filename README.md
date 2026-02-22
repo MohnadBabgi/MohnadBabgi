@@ -1,45 +1,31 @@
-# 👋 Hi, I'm Mohanad
+# Mohanad Babgi
 
-🎓 **IT Student at King Abdulaziz University (FCIT)**  
-💻 **Full-Stack Developer | Cloud & DevOps Enthusiast |**  
-🚀 I enjoy designing and building practical, user-friendly software that solves real problems.
-
----
-
-## 🧠 About Me
-- 💡 I simply enjoy coding — building things for fun, experimenting, and learning every day.
-- ☁️ Experienced with **AWS (EC2, S3, IAM, RDS, CloudWatch)**  
-- 🧪 I enjoy problem-solving, debugging.
-- 📘 Always learning, always improving — from backend architecture to UI/UX polish.
-  
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Programming Languages**
-- **JavaScript (ES6+)**, **TypeScript**, **Java**, **C#**, **Python**, **SQL**
-
-### **Frontend**
-- **React (Vite + Tailwind + GSAP animations)**
-
-### **Backend**
-- **Node.js (Express)**  
-- **ASP.NET Core Web API (C#)**  
-
-### **Databases**
-- **PostgreSQL**, **SQLite**, **Oracle DB**, **MySQL**
-
-### **Cloud & DevOps**
-- **AWS EC2, S3, IAM, CloudWatch**  
-- **Docker & Docker Compose**  
-- **VirtualBox + Vagrant multi-VM**  
-- **GitHub Actions, GitLab CI/CD, Jenkins**
+**IT Student — Faculty of Computing and Information Technology, King Abdulaziz University**
+Full-Stack Developer with a focus on Cloud and DevOps
 
 ---
 
-## 📫 Contact Me
-- ✉️ Email: **mohanadbabgi@gmail.com**  
-- 🔗 LinkedIn: *https://www.linkedin.com/in/mohanadbabgi/*  
+## About
+
+I am a software developer who enjoys building practical, well-crafted applications from the ground up. My interests span backend architecture, frontend design, and cloud infrastructure. I approach development with a problem-solving mindset and a commitment to continuous improvement.
+
 ---
 
-⭐ **Thanks for visiting! Feel free to explore my projects or reach out!**
+## Technical Skills
+
+**Programming Languages:** JavaScript (ES6+), TypeScript, Java, C#, Python, SQL
+
+**Frontend:** React (Vite, Tailwind CSS, GSAP)
+
+**Backend:** Node.js with Express, ASP.NET Core Web API (C#)
+
+**Databases:** PostgreSQL, MySQL, Oracle DB, SQLite
+
+**Cloud & DevOps:** AWS (EC2, S3, IAM, RDS, CloudWatch), Docker and Docker Compose, VirtualBox with Vagrant multi-VM environments, GitHub Actions, GitLab CI/CD, Jenkins
+
+---
+
+## Contact
+
+**Email:** mohanadbabgi@gmail.com
+**LinkedIn:** linkedin.com/in/mohanadbabgi
