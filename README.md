@@ -1,14 +1,5 @@
 # Mohanad Babgi
 
-**IT Student — Faculty of Computing and Information Technology, King Abdulaziz University**
-Full-Stack Developer with a focus on Cloud and DevOps
-
----
-
-## About
-
-I am a software developer who enjoys building practical, well-crafted applications from the ground up. My interests span backend architecture, frontend design, and cloud infrastructure. I approach development with a problem-solving mindset and a commitment to continuous improvement.
-
 ---
 
 ## Technical Skills
